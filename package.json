@@ -28,7 +28,7 @@
         "url": "https://github.com/atcoinorg/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/nasa8x/node-multi-hashing.git",
+        "multi-hashing": "https://github.com/UlordChain/node-multi-hashing.git",
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*"
